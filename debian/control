@@ -26,7 +26,9 @@ Recommends: alsa-utils,
             cockpit,
             cockpit-packagekit,
             command-not-found,
+            default-settings-kdeapps,
             default-settings-xdg-user-dirs,
+            default-settings-xsession,
             desktop-file-utils,
             dnsutils,
             dolphin,
@@ -171,3 +173,4 @@ Replaces: kffmpegthumbnailer (<< 2.1.0+p8+git20161003.1141),
           plasma-netbook
 Description: Meta package for the Netrunner ARM environment
    Meta package for the Netrunner ARM environment
+  
